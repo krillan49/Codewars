@@ -1,3 +1,3 @@
 7-kyu/Unique(ish).rb
 6-kyu/Moving Slice Enumerator.rb
-5-kyu/Probabilities for Sums in Rolling Cubic Dice
+5-kyu/Simple Fun #166 Best Match
