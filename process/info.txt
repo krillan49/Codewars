@@ -1,3 +1,3 @@
 7-kyu/Unique(ish).rb
 6-kyu/Moving Slice Enumerator.rb
-5-kyu/Closest and Smallest
+5-kyu/Play with two Strings
