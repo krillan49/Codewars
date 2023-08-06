@@ -1,3 +1,3 @@
 7-kyu/Unique(ish).rb
 6-kyu/Moving Slice Enumerator.rb
-5-kyu/MergeSort 'merge' function
+5-kyu/Return substring instance count - 2
