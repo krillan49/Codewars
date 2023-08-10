@@ -1,3 +1,3 @@
 7-kyu/Unique(ish).rb
 6-kyu/Moving Slice Enumerator.rb
-5-kyu/Going to zero or to infinity
+5-kyu/(Ready for) Prime Time
