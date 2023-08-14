@@ -24,50 +24,45 @@ def expand(expr)
   exp, pow = exp.tr('()',''), pow.to_i # ["(-2k-3)", "3"] => ["-2k-3", 3]
   return exp if pow == 1 # ex ^1
 
-  exp = exp.chars.slice_when{|a, b| /[-+]/ === b}.to_a # "-2k-3" => [["-", "2", "k"], ["-", "3"]]
-  exp[0] = exp[0].slice_when{|a, b| b == var}.map.with_index do |a, j|
-    if j == 0
-      a.join == '-' ? -1 : a.join == var ? var : a.join.to_i
-    else
-      a.join
-    end
-  end #=> [-2, "k"]
+  # =====================  тут ====================
+  p exp = exp.chars.slice_when{|a, b| /[-+]/ === b}.to_a # "-2k-3" => [["-", "2", "k"], ["-", "3"]]
+  p exp[0] = [exp[0][0] == '-' ? exp[0][1..-2].join.to_i * -1 : exp[0][0..-2].join.to_i, exp[0][-1]] #=> [-2, "k"]
+  exp[0].delete(0)
   exp[1] = exp[1].join.to_i #=> -3
 
   return exp[0].size == 1 ? exp[0].join + "^#{pow}" : "#{exp[0][0]**pow}" + "#{var}^#{pow}" if exp[1] == 0
 
   exp[0] = exp[0].join # [-2, "k"] => "-2k"
 
-  # ============= остановился тут ====================
+  exp_mid = bin_nuton(pow, exp[0], exp[1]) # expansion in Newton's binomial without the 1st and last term
+  exp_last = exp[1]**pow # last part(Integer)
+  res = [[exp[0] * pow]] + exp_mid # all without last
 
-  expfl = bin_nuton(pow, exp[0], exp[1]) # разложение по биному Ньютона без 1го и последнего члена
-  l = exp[1]**pow # посл член(Integer)
-  expl = [[exp[0] * pow]] + expfl # все кроме последнего
-
-  res=expl.map do |ar| # преобразование строковых членов(всех кроме последнего)
-    ar=ar.map do |e|
-      if e.class==Integer
+  res.map! do |ar|
+    ar.map! do |e|
+      if e.class == Integer
         e
       else
-        e.count('-').odd? ? zn='-' : zn=nil
-        n=e.tr('^0-9',' ').split.map(&:to_i).inject(:*)
-        str=e.tr('^a-z','')
-        str.size==1 ? x=str[0] : x=str[0]+"^#{str.size}"
-        [x, n, zn]
+        minus = e.count('-').odd? ? '-' : nil
+        coef = e.tr('^0-9', ' ').split.map(&:to_i).inject(:*)
+        vars = e.tr('^a-z', '')
+        varpow = vars.size == 1 ? vars[0] : vars[0] + "^#{vars.size}"
+        [varpow, coef, minus]
       end
     end
-    ar=ar.flatten.compact
-    coef=ar.select{|e| e.class==Integer}.inject(:*)
+    ar = ar.flatten.compact
+    coef = ar.select{|e| e.class == Integer}.inject(:*)
     if ar.include?('-')
-      coef=-coef
+      coef = -coef
       ar.delete('-')
     end
-    coef.to_s+ar.select{|e| e.class==String}.join
+    coef.to_s + ar.select{|e| e.class == String}.join
   end
 
-  res=(res+[l.to_s]).map.with_index{|e,i| (e[0]!='-' && i!=0) ? '+'+e : e}.join
-
-  res.chars.slice_when{|a,b| /[\^-]/===b}.map(&:join).map{|e| e=="-1#{var}" ? "-#{var}" : e}.join # убираем начальные единицы
+  res = (res + [exp_last.to_s]).map.with_index{|e, i| (e[0] != '-' && i != 0) ? '+' + e : e}.join
+  res.chars.slice_when{|a, b| /[\^-]/ === b}.map(&:join)
+  .map{|e| e == "-1#{var}" ? "-#{var}" : e == "1#{var}" ? "#{var}" : e}.join # remove 1-coefficients
 end
 
-p expand('(-2k-3)^3')#'-8k^3-36k^2-54k-27'
+# p expand('(-2k-3)^3')#'-8k^3-36k^2-54k-27'
+p expand("(-n-12)^5")# "-n^5-60n^4-1440n^3-17280n^2-103680n-248832"
