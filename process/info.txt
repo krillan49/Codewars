@@ -1,3 +1,3 @@
 7-kyu/Unique(ish).rb
 6-kyu/Moving Slice Enumerator.rb
-5-kyu/Greed is Good
+5-kyu/Number of trailing zeros of N
