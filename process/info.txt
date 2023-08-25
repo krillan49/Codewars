@@ -1,3 +1,2 @@
 7-kyu/Unique(ish).rb
 6-kyu/Moving Slice Enumerator.rb
-5-kyu/Simple Pig Latin
