@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/Duplicate Array#transpose functionality
+6-kyu/Text Door Neighbors - Phone Keypad
