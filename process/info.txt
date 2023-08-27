@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/Integer division
+6-kyu/Get Indices of Item Weights
