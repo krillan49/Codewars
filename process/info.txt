@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/Crack the Encrypted Email
+6-kyu/Locate P using 3 Points and their distances to P
