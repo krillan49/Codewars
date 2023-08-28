@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/Locate P using 3 Points and their distances to P
+6-kyu/D&D Character generator #2 psion power points
