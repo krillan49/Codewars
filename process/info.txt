@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/Meta Mad Libs
+6-kyu/Crack the Encrypted Email
