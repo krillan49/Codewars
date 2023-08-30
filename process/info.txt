@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/D&D Character generator #2 psion power points
+6-kyu/Arithmetic Progression of Primes
