@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/Arithmetic Progression of Primes
+6-kyu/Find the biggest piece of gold
