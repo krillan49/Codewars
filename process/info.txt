@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/Cramer, thanks for your contribution
+6-kyu/Simple Fun #341 Minimum Bonus
