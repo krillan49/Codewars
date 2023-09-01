@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/The Wolf of Wall Street
+6-kyu/Building Chains Using the Arithmetic Derivative of a Number
