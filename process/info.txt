@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/0 to 100, real quick
+6-kyu/Conic Classification
