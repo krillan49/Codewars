@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/Implement Hash#safe_dig
+6-kyu/0 to 100, real quick
