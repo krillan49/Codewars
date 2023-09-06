@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/Simple Fun #171 Get Candy Position
+6-kyu/Implement Hash#safe_dig
