@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/Conic Classification
+6-kyu/Readable N choose K
