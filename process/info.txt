@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/Arrays and Procs #1
+6-kyu/Hello new meta-class
