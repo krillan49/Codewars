@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/Hello new meta-class
+6-kyu/Data Analysis Following Migration
