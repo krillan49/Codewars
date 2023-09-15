@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/Geometric Mean II
+6-kyu/[Code Golf] Leyland Numbers
