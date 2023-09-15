@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/Decimals or groups of thousands
+6-kyu/Geometric Mean II
