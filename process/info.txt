@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/Football League Table System
+6-kyu/Decimals or groups of thousands
