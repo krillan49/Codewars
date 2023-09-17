@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/Generate An Array of Unique Strings
+6-kyu/Santa's Secret Sorting Sequence
