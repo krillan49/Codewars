@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/Dumb News The Truth About CW Leaderboard
+6-kyu/Has the Largest Product Horizontal or Vertical Direction Find it
