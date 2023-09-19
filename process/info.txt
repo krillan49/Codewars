@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/Santa's Secret Sorting Sequence
+6-kyu/Arrays and hex color codes
