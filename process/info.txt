@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/#10 Matrices Creating Hankel Matrices
+6-kyu/Megamind
