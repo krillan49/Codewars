@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/Iterate function
+6-kyu/Integer to Musical Pitch Classes
