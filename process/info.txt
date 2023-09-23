@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/The simplest path
+6-kyu/Iterate function
