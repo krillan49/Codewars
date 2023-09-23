@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/Pair items from two lists of different lengths
+6-kyu/Shoot But As I've Seen It In My Imagination
