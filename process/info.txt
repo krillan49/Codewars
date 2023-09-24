@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/Simple Fun #344 Children And Apples
+6-kyu/Special Subsets of Primes
