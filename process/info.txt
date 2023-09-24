@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/Inner Calls In Recursion I
+6-kyu/Simple Fun #344 Children And Apples
