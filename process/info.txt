@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/The Pony Express (missing rider)
+6-kyu/Stern-Brocot Sequence Part I
