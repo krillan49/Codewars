@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/Make Ruby Hashes Act Like JavaScript Objects
+6-kyu/Number encrypting decypher
