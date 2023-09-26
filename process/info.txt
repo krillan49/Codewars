@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/Find Amount of Certain Combinations than its Sum of Elements Are Within a Given Range
+6-kyu/Personalized brand list
