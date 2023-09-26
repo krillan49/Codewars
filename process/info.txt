@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/Personalized brand list
+6-kyu/Triangular matrices
