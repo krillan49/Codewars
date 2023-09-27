@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/#6 Matrices How Many Matrices Do These Elements Produce
+6-kyu/Simple palindrome game
