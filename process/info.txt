@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/Simple Fun #97 Video Part
+6-kyu/Fractions of a currency' smallest value
