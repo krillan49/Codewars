@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/Sudoku solver #1
+6-kyu/Does an array contain all elements from another array
