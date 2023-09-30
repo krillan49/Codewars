@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/Simple Fun #54 Strings Crossover
+6-kyu/Sudoku solver #1
