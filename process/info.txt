@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/Does an array contain all elements from another array
+6-kyu/Check a Curious Divisibility (Brute force version)
