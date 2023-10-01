@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/Draw a Circle
+6-kyu/Closest Perfect Power
