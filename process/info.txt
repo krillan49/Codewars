@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/Something similar to RokuLiuYeoseot- Nacci
+6-kyu/Drawing a cube
