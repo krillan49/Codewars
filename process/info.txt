@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/Crazy programmer 01 find SuperMan
+6-kyu/Something similar to RokuLiuYeoseot- Nacci
