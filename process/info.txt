@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/Drawing a cube
+6-kyu/#7 Matrices Focused on the Contour
