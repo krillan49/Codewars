@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/Two's Complement
+6-kyu/Mean, Variance and Standard Deviation of a Probability Distribution for Discrete Variables
