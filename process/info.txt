@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/Simple Fun #279 Finding K
+6-kyu/Two's Complement
