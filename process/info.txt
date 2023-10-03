@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/Five Number Summary
+6-kyu/Find warrior's kyu
