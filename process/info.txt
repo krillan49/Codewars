@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/Nth Root Equals Digit Sum
+6-kyu/Let's flat them out
