@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/Parametric to Rectangular Equation
+6-kyu/Figurate Numbers #1 - Pentagonal Number
