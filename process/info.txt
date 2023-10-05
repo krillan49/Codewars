@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/T T T #4 Key of door
+6-kyu/Parametric to Rectangular Equation
