@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/Mid-Endian numbers
+6-kyu/How many eggs
