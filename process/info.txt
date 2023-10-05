@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/Figurate Numbers #1 - Pentagonal Number
+6-kyu/Mid-Endian numbers
