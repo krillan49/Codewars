@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/Gangs
+6-kyu/Abundant Numbers
