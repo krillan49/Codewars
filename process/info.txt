@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/EventEmitter
+6-kyu/Magic The Gathering #3 Spell Stack
