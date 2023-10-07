@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/Abundant Numbers
+6-kyu/Filtering Values For an Election
