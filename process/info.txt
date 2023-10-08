@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/Simple Memoization
+6-kyu/Multiply by a number, so it becomes a perfect power
