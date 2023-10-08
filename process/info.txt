@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/Simple Fun #201 Cards And Pero
+6-kyu/Well efficiency calculator
