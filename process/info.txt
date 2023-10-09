@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/Berserk rater CG Vs Clang
+6-kyu/Multiples of Ten in a Sequence Which Values Climb Up
