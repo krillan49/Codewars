@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/Bocce
+6-kyu/Simple number divisibility
