@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/Statistics in Kata 2 AND case - Ball bags
+6-kyu/A Combinatorial Way to Get Products and Sums of an Array
