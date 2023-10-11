@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/A Combinatorial Way to Get Products and Sums of an Array
+6-kyu/Simple Fun #180 Repeat Adjacent
