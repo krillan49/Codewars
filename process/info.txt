@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/Simple Fun #46 Cipher26
+6-kyu/Simple Fun #19 Count Black Cells
