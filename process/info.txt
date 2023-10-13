@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/Markings to White Triangles and How to Find The
+6-kyu/Simple Fun #46 Cipher26
