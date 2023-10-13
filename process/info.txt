@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/Simple Fun #19 Count Black Cells
+6-kyu/Get the Sum of Multiples of Triangular Numbers
