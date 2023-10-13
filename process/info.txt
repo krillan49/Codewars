@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/ASCII Sierpi\305\204ski Carpet
+6-kyu/Markings to White Triangles and How to Find The
