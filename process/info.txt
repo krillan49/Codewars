@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/Fuel usage reporting
+6-kyu/Simple Fun #72 Absolute Values Sum Minimization
