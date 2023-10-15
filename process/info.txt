@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/Simple Fun #72 Absolute Values Sum Minimization
+6-kyu/Sharkovsky's Theorem
