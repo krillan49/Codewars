@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/The furthest distance of index
+6-kyu/Split Without Loss
