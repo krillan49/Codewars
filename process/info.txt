@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/Keith Numbers
+6-kyu/Alex & snooker scores
