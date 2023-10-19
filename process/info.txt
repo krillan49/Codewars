@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/Chess Fun #10 Chess Encryption
+6-kyu/Infinite Sequences
