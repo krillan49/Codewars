@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/Magic Zeckendorf
+6-kyu/SNAP
