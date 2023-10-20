@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/Simple Fun #268 Triangular Sum
+6-kyu/Split and Join
