@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/Simple Fun #83 MineSweeper
+6-kyu/ASCII Cipher
