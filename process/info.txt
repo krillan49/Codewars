@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/Longest Consecutive Sequence of Squares
+6-kyu/Square Roots Simplify Desimplify
