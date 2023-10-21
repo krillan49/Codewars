@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/Split and Join
+6-kyu/Longest Consecutive Sequence of Squares
