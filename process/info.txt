@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/ASCII Cipher
+6-kyu/Button sequences
