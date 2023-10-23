@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/Read a UPC Barcode
+6-kyu/Simple Fun #33 Construct Square
