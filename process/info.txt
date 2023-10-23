@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/Simple Fun #33 Construct Square
+"6-kyu/D\303\251j\303\240 vu Duplicates.rb"
