@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/Modular Multiplicative Inverse
+6-kyu/Read a UPC Barcode
