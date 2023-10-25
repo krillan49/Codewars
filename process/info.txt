@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/Time Simulation
+6-kyu/Divisor harmony
