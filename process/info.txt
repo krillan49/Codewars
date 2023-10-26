@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/A floating-point system.rb
+6-kyu/Nearly Flatten a Messy Array
