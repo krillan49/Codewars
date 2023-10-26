@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/Generating Numbers From Digits #1
+6-kyu/Simple Barcode Scanner
