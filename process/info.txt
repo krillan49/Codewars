@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/#4 Matrices Process for a Square Matrix
+6-kyu/Simple Fun #133 Six Column Encryption
