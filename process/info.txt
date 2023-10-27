@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/#1 Strings Find The Longest Substring and Required Data
+6-kyu/Linux history and  command Series#5 The string command
