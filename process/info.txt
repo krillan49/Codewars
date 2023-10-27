@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/Reducing a pyramid
+6-kyu/Linux history and  command Series#4 The string command
