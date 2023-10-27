@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/Linux history and  command Series#5 The string command
+6-kyu/Simple Fun #126 Decrypt Number
