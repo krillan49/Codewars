@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/Simple Fun #133 Six Column Encryption
+6-kyu/#1 Strings Find The Longest Substring and Required Data
