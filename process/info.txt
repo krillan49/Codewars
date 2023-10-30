@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/Simple Fun #191 Sum Of Regular Numbers
+6-kyu/Sixteen circles
