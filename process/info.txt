@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/The Sum of The First and The Last Prime Factor Make Chains of Numbers
+6-kyu/Simple Fun #183 Direction In Grid
