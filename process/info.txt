@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/Linux history and  command Series#4 The string command
+6-kyu/The Sum of The First and The Last Prime Factor Make Chains of Numbers
