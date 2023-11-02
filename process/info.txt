@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/Sixteen circles
+6-kyu/Mysterious Pattern
