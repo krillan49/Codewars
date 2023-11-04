@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/Kontti Language
+6-kyu/Special Scores For Words
