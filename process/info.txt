@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/Simple Fun #70 Avoid Obstacles
+6-kyu/Search The 0 Sums Combinations in an Array
