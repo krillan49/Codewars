@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/Special Scores For Words
+6-kyu/Lemmings Battle
