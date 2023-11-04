@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/Search The 0 Sums Combinations in an Array
+6-kyu/Deficiently Abundant Perfect Amicable Numbers
