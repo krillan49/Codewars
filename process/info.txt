@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/Lemmings Battle
+6-kyu/Simple Fun #70 Avoid Obstacles
