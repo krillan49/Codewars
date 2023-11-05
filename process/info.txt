@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/Linux history and  command Series#3 The  command
+6-kyu/Score From Permutations Of Combinations of an Integer
