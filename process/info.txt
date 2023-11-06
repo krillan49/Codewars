@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/Happy numbers to the n power
+6-kyu/Corner Fill
