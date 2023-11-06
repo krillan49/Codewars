@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/Exclamation marks series #12 Remove odd number continuous exclamation marks and question marks
+6-kyu/When Sigma1 Function Has Equals Values For an Integer and Its Reversed One
