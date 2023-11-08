@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/When Sigma1 Function Has Equals Values For an Integer and Its Reversed One
+6-kyu/Create a House Cleaning Rota
