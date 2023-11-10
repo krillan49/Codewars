@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/DevOps legacy roasting - disco inferno - burn baby burn
+6-kyu/Counting Rectangle Triangles
