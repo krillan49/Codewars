@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/Fixed length palindromes
+6-kyu/DevOps legacy roasting - disco inferno - burn baby burn
