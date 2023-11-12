@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/Statistics in Kata 1 OR case - Unfair dice
+6-kyu/Prime reversion
