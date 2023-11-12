@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/Simple Fun #121 Mr Odd
+6-kyu/Jumble words
