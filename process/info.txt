@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/Jumble words
+6-kyu/Min value of each n elements -- Simple version
