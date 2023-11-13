@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/Complete The Pattern #14
+6-kyu/Distribute server workload
