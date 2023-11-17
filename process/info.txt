@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/Simple Fun #36 Most Frequent Digit Sum
+6-kyu/Logical Disjunctions
