@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/Logical Disjunctions
+6-kyu/Help Green Lantern with his web site
