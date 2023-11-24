@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/Sherlock on pockets
+6-kyu/Deal a Shuffled Deck of Cards
