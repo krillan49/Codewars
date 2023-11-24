@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/Warm Up for Speed
+6-kyu/Sum of integer combinations
