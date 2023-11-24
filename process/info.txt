@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/Simple Fun #65 Matrix Elements Sum
+6-kyu/Simple Fun #14 Line Up
