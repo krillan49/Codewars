@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/Deal a Shuffled Deck of Cards
+6-kyu/Warm Up for Speed
