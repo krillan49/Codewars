@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/Simple Fun #318 Sort String
+6-kyu/Sherlock on pockets
