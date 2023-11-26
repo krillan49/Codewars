@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/# Counting 1 I Want Some Subsets, Not All
+6-kyu/Simple Fun #142 Mobius function
