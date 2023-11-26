@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/Simple Fun #142 Mobius function
+6-kyu/Simple Fun #111 Reverse Brackets
