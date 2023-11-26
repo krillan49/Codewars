@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/Simple Fun #111 Reverse Brackets
+6-kyu/Simple Fun #395 Fibonacci digit sequence
