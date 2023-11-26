@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/Simple Fun #200 Luxurious House
+6-kyu/Tom's Allergies
