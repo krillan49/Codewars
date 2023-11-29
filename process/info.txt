@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/Sherlock on numbers
+6-kyu/1 Two 3 Four 5
