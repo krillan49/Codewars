@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/Find the integer Partition of k-Length With Maximum or Minimum Value For Its Product Value
+6-kyu/Simple Fun #151 Rocks
