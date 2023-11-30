@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/Simple Fun #151 Rocks
+6-kyu/Covered pawns
