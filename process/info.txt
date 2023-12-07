@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/When greatest is less than smallest
+6-kyu/Pattern 01 Merry Christmas (sometimes little bit out of time;-))
