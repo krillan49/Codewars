@@ -2,14 +2,13 @@
 
 You should not look at the solutions if you have not tried to solve them yourself.
 
-As of 25.08.2023 uploaded:
-+ 2kyu - 2
+As of 07.12.2023 uploaded:
++ 2kyu - 4
 + 3kyu - 10
 + 4kyu - 66
-+ 5kyu - 244
-+ 6kyu - 4
++ 5kyu - 247
++ 6kyu - 254
 + 7kyu - 6
-+ All  - 332
-+ Queued to upload - 2633
++ All  - 587
 
 Since I am posting my original solutions that were made at different stages of my learning to program, without fundamentally changing them, but only doing cosmetic refactoring, I do not guarantee that my solutions are the fastest, most laconic, or the best in any other parameter.
