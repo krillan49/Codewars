@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/Allergy to Palindromes
+6-kyu/Super Coordinate Sums
