@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/The Sceptical Kid Generator
+6-kyu/Heroes of Might & Magic II One-on-One
