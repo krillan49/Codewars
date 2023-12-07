@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/Pete's inappropriate speech
+6-kyu/Allergy to Palindromes
