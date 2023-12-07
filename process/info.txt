@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/Super Coordinate Sums
+6-kyu/Simple Fun #110 Array Operations
