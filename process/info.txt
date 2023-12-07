@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/Pattern 01 Merry Christmas (sometimes little bit out of time;-))
+6-kyu/The Sum Of The Prime Factors Of a Number What For
