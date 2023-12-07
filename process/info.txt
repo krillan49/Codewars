@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/Simple Fun #110 Array Operations
+6-kyu/The Sceptical Kid Generator
