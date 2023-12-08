@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/The Sum Of The Prime Factors Of a Number What For
+6-kyu/Process Waterfowl Survey Data Results
