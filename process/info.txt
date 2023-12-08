@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/Filter valid romans
+6-kyu/Raise Me to The Third Power, Search My Divisors Could You Believe that
