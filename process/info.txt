@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/Raise Me to The Third Power, Search My Divisors Could You Believe that
+6-kyu/Best Stock Profit in Single Sale
