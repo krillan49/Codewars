@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/Best Stock Profit in Single Sale
+6-kyu/Simple Fun #169 Press Button
