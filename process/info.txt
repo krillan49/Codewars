@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/Prime ant
+6-kyu/[Minecraft Series #1] Steve wants to build a beacon pyramid
