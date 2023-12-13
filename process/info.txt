@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/A Crazy Robot Who's is behind the scenes to make that
+6-kyu/What's the pattern
