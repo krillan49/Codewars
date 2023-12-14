@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/String subpattern recognition II
+6-kyu/Arrays of Lists of Sets
