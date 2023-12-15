@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/Logistic Map
+6-kyu/From To Series #7 from sentence to camelCase Can you convert it
