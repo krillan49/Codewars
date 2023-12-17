@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/Fix array sequence
+6-kyu/Simple Fun #162 Pair Wise
