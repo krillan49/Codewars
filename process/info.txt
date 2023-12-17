@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/Numbers' Plus Pattern
+6-kyu/Magnitude
