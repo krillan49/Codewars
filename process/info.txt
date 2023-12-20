@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/Guess Who
+6-kyu/Blocks in an Irregular Pyramid
