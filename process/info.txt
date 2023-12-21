@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/What The Biggest Search Keys
+6-kyu/Help Kiyo \343\201\215\343\202\210 solve her problems LCM Fun
