@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/Ermahgerd
+6-kyu/Optimum coding school location
