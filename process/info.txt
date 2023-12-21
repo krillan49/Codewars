@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/Optimum coding school location
+6-kyu/Array Product (Sans n)
