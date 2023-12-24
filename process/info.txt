@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/What Color is Your Name
+6-kyu/Number of Digit d in m-based Number Converted to Base n
