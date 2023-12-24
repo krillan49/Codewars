@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/Number of Digit d in m-based Number Converted to Base n
+6-kyu/Chessboard Squares Under Queen's Attack
