@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/Interlace an arbitrary Number of Strings
+6-kyu/Adding Fractions
