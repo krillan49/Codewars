@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/Chessboard Squares Under Queen's Attack
+6-kyu/Sub-array division
