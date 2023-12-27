@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/Adding Fractions
+6-kyu/Regex for a decimal number divisible by 4
