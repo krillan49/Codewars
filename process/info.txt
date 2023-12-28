@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/GA-DE-RY-PO-LU-KI cypher vol 3 - Missing key
+6-kyu/Frequency Analysis With Buckets
