@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/The Rhinestone Cowboy ~ Count the dollars in his boots
+6-kyu/Objectify all the strings
