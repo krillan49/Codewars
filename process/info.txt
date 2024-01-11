@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/(a+b)^n
+6-kyu/Parse the log
