@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/Block Letter Printer
+6-kyu/Change Machine
