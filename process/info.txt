@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/Slices of a Series of Digits
+6-kyu/Evening up a workload
