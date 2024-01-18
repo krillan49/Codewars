@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/Get the Excel column title
+6-kyu/Last non-zero digit of factorial
