@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/Pig Sursurunga
+6-kyu/Find Number With Maximum Number Of Divisors
