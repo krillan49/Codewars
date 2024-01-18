@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/Last non-zero digit of factorial
+6-kyu/Pig Sursurunga
