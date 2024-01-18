@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/Union of Intervals
+6-kyu/XOR string reduction
