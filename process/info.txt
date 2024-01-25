@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/Are they square 2
+6-kyu/Linux history and command. Series#1 The command
