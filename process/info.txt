@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/Unique Strings
+6-kyu/Are they square 2
