@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/Shortest Distance to a Character
+6-kyu/Matrix Rotation
