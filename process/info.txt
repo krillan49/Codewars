@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/Simple Fun #301 Rope Skipping Game
+6-kyu/Shortest Distance to a Character
