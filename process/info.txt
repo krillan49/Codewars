@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/Dominant primes
+6-kyu/Find the Nth Catalan number
