@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/Partial Keys
+6-kyu/Word Challenges at School
