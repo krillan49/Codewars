@@ -1,2 +1,2 @@
 7-kyu/Unique(ish).rb
-6-kyu/Arrays of cats and dogs
+6-kyu/Partial Keys
