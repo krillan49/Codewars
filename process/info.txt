@@ -1,2 +1,3 @@
 7-kyu/Unique(ish).rb
-6-kyu/Word Challenges at School
+13
+6-kyu/Find the discounted prices
