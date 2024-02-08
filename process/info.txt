@@ -1,3 +1,3 @@
 7-kyu/Unique(ish).rb
 13
-6-kyu/Take a picture
+6-kyu/Jewel Thief
