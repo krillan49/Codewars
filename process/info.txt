@@ -1,3 +1,3 @@
 7-kyu/Unique(ish).rb
 13
-6-kyu/Bishop Movement checker
+6-kyu/Integer reduction
