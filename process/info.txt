@@ -1,3 +1,3 @@
 7-kyu/Unique(ish).rb
 14
-6-kyu/Routes in a square grid
+6-kyu/Decipher Student Messages
