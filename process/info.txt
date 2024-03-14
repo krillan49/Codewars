@@ -1,3 +1,3 @@
 7-kyu/Unique(ish).rb
 14
-6-kyu/Thue-Morse Sequence
+6-kyu/Sum of nested numbers
