@@ -1,3 +1,3 @@
 7-kyu/Unique(ish).rb
 15
-6-kyu/Simple Fun #303 Prime Product
+6-kyu/Grocer Grouping
