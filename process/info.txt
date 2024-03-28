@@ -1,3 +1,3 @@
 7-kyu/Unique(ish).rb
 15
-6-kyu/Cycle Detection
+6-kyu/ROT13 variant cipher
