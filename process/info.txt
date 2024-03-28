@@ -1,3 +1,3 @@
 7-kyu/Unique(ish).rb
 15
-6-kyu/Wordify an integer
+6-kyu/Binary Coded Decimal
