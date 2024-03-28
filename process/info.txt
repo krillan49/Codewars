@@ -1,3 +1,3 @@
 7-kyu/Unique(ish).rb
 15
-6-kyu/Parity bit - Error detecting code
+6-kyu/Modulus 11 - Check Digit
